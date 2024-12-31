@@ -17,6 +17,7 @@ The repository contains comprehensive information and a structured roadmap from 
   - Introduction to KiCAD
   - Using shortcuts for efficiency
   - Working with schematics and layouts
+  - hands on session on kicad
 - **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/83dafab9634f349d7faec240b14ab0cb0a23287b/%231%20PCB%20Desgin%20Week/PCB_Desgin_Session_2.pdf)
 - **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Session%20on%20PCB%20Designing-20241209_152010-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 - **Task:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/03981ab7512792a97596c5700504a35ad4999051/%231%20PCB%20Desgin%20Week/Task_1.pdf)
@@ -26,6 +27,12 @@ The repository contains comprehensive information and a structured roadmap from 
 ### Additional Resources
 - **YouTube Playlist:** 🔗[Explore here](https://youtube.com/playlist?list=PLmzKTn3f9uzE_H06a-EHa8NRX29HCez9Z&si=DIah27OOOuC0VxI5)
 - **Reference Projects:** 🔗[Find projects here](https://devbisme.github.io/RepoRecon/?topic=kicad&filter=&sort=pushed:desc)
+
+### Suggested Learning Path
+1. Learn the Fundamentals: Start by understanding the importance of PCB design and its applications through the provided session materials.
+2. Master KiCad: Follow the session recordings and YouTube tutorials to get hands-on with KiCad's schematic design and layout tools.
+3. Practice and Explore: Complete the tasks, review reference projects, and experiment with your own designs to strengthen your skills.
+4. Fabricate a PCB: Design and produce a small PCB to experience the entire process from design to fabrication.
 
 ## Digital Design - 2nd Week
 
@@ -71,10 +78,61 @@ The repository contains comprehensive information and a structured roadmap from 
 ---
 
 ### Suggested Learning Path
-1. **Start with Fundamentals:** Begin by thoroughly understanding the basics from the "Digital Logic and Computer Design" book by M. Morris Mano. This book is an excellent resource for mastering digital design concepts.
-2. **Learn Verilog:** Follow IndraNeel Sengupta's Verilog video lectures, which are among the best for learning Verilog programming.
-3. **Practice Regularly:** Use HDL Bits to solve problems and solidify your understanding of digital design and Verilog concepts.
-4. **Experiment with Advanced Designs:** Utilize EDA Playground for designing and simulating more advanced circuits and projects.
+1. Begin by thoroughly understanding the basics from the "Digital Logic and Computer Design" book by M. Morris Mano. This book is an excellent resource for mastering digital design concepts.
+2. Follow IndraNeel Sengupta's Verilog video lectures, which are among the best for learning Verilog programming.
+3. Use HDL Bits to solve problems and solidify your understanding of digital design and Verilog concepts.
+4. Utilize EDA Playground for designing and simulating more advanced circuits and projects.
 
 
+## IoT - 3rd Week
 
+### Day 1: Introduction to IoT
+- **Session Highlights:**
+  - What is IoT?
+  - Sensors and devices
+  - Network topologies
+  - Security aspects
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c3a449e6d37e74b5d01587ade931f444f8083fe3/%233%20IoT%20Week/IoT_Session_1.pdf)
+- **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/iot%20session-20241227_151956-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+---
+
+### Day 2: IoT Protocols and Standards
+- **Session Highlights:**
+  - Different IoT protocols
+  - IEEE standards
+  - Overview of Wi-Fi, Ethernet, Zigbee, etc.
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c3a449e6d37e74b5d01587ade931f444f8083fe3/%233%20IoT%20Week/IoT_Session_2.pdf)
+- **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/IOT%20session-20241228_153303-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+---
+
+### Day 3: Hands-on with IoT Tools
+- **Session Highlights:**
+  - Hands-on with ThingSpeak and Wokwi
+  - Introduction to Node-RED
+  - Communication protocols (e.g., UART)
+- **Tools and Resources:**
+  - **Wokwi:** 🔗[Explore here](https://wokwi.com/)
+  - **ThingSpeak:** 🔗[Explore here](https://thingspeak.mathworks.com/)
+  - **Node-RED:** 🔗[Learn more](https://nodered.org/docs/)
+- **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/iot%20%20session3-20241229_150655-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+
+---
+
+### Additional Resources
+- **Node-RED Tutorials Playlist:** 🔗[Watch here](https://www.youtube.com/playlist?list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw)
+- **ESP32 Tutorials:** 🔗[Get started here](https://randomnerdtutorials.com/getting-started-with-esp32/)
+- **Raspberry Pi Tutorials Playlist:** 🔗[Watch here](https://www.youtube.com/playlist?list=PLLSegLrePWgLzBgQqDJvgZ4ewbpCnuare)
+
+---
+
+### Suggested Learning Path
+1.  Start by exploring "What is IoT?" using the provided session materials. Build on your knowledge from previous sessions on TinkerCAD and sensors.
+2.  Delve into the IoT protocols and standards introduced in Day 2 to understand how communication happens in IoT systems.
+3.  Use tools like ThingSpeak, Wokwi, and Node-RED to experiment with practical IoT implementations. Familiarize yourself with communication protocols like UART.
+4. - Follow the Node-RED tutorial playlist for advanced workflows.
+   - Practice with ESP32 using the Random Nerd Tutorials.
+   - Explore Raspberry Pi projects for a broader IoT perspective.
+
+This structured approach will help you master the foundational and practical aspects of IoT effectively.

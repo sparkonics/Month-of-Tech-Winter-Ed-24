@@ -29,10 +29,10 @@ The repository contains comprehensive information and a structured roadmap from 
 - **Reference Projects:** 🔗[Find projects here](https://devbisme.github.io/RepoRecon/?topic=kicad&filter=&sort=pushed:desc)
 
 ### Suggested Learning Path
-1. Learn the Fundamentals: Start by understanding the importance of PCB design and its applications through the provided session materials.
-2. Master KiCad: Follow the session recordings and YouTube tutorials to get hands-on with KiCad's schematic design and layout tools.
-3. Practice and Explore: Complete the tasks, review reference projects, and experiment with your own designs to strengthen your skills.
-4. Fabricate a PCB: Design and produce a small PCB to experience the entire process from design to fabrication.
+1.  Start by understanding the importance of PCB design and its applications through the provided session materials.
+2.  Follow the session recordings and YouTube tutorials to get hands-on with KiCad's schematic design and layout tools.
+3.  Complete the tasks, review reference projects, and experiment with your own designs to strengthen your skills.
+4.  Design and produce a small PCB to experience the entire process from design to fabrication.
 
 ## Digital Design - 2nd Week
 

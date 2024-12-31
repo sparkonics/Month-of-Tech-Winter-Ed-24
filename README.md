@@ -19,7 +19,7 @@ The repository contains comprehensive information and a structured roadmap from 
   - Working with schematics and layouts
   - hands on session on kicad
 - **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%231%20PCB%20Design%20Week/PCB_Design_Session_2.pdf)
-- **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Session%20on%20PCB%20Designing-20241209_152010-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+- **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/_layouts/15/stream.aspx?id=%2Fsites%2FSparkonics%2D24%2FShared%20Documents%2FGeneral%2FRecordings%2FPCB%20Design%20%2D%20day2%2D20241210%5F150418%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4f1bc59f%2Dd5eb%2D47ce%2Da812%2Dfb3dc1caf292)
 - **Task:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%231%20PCB%20Design%20Week/Task_1.pdf)
 
 ---

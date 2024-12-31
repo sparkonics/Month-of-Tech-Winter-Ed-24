@@ -17,7 +17,7 @@ The repository contains comprehensive information and a structured roadmap from 
   - Introduction to KiCAD
   - Using shortcuts for efficiency
   - Working with schematics and layouts
-- **Session Material:** [PCB_Design_Session_2](#1-PCB-Design-Week/PCB_Design_Session_2.pdf)
+- **Session Material:** [#1_PCB_Design_Week/PCB_Design_Session_2.pdf](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/83dafab9634f349d7faec240b14ab0cb0a23287b/%231%20PCB%20Desgin%20Week/PCB_Desgin_Session_2.pdf)
 - **Recording:** [Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Session%20on%20PCB%20Designing-20241209_152010-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 - **Task:** [Task 1](#1-PCB-Design-Week/Task_1.pdf)
 

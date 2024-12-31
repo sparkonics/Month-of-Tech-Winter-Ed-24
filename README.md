@@ -7,7 +7,7 @@ The repository contains comprehensive information and a structured roadmap from 
 - **Session Highlights:**
   - Why PCB design is important
   - Basics of PCB design
-- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/fc51cde716b9c38ed801bc5c94871610c45b889c/%231%20PCB%20Design%20Week/PCB_Design_Session_1.pdf)
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%231%20PCB%20Design%20Week/PCB_Design_Session_1.pdf)
 - **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Session%20on%20PCB%20Designing-20241209_152010-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
 ---
@@ -18,9 +18,9 @@ The repository contains comprehensive information and a structured roadmap from 
   - Using shortcuts for efficiency
   - Working with schematics and layouts
   - hands on session on kicad
-- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/83dafab9634f349d7faec240b14ab0cb0a23287b/%231%20PCB%20Design%20Week/PCB_Design_Session_2.pdf)
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%231%20PCB%20Design%20Week/PCB_Design_Session_2.pdf)
 - **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Session%20on%20PCB%20Designing-20241209_152010-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
-- **Task:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/03981ab7512792a97596c5700504a35ad4999051/%231%20PCB%20Desgin%20Week/Task_1.pdf)
+- **Task:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%231%20PCB%20Design%20Week/Task_1.pdf)
 
 ---
 
@@ -42,8 +42,8 @@ The repository contains comprehensive information and a structured roadmap from 
   - Logic gates
   - Boolean algebra
   - Combinational circuits
-- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/f7bcd51cfc97de3371a0aad79ed8f3322ae9d08e/%232%20Digital%20Design%20Week/Digital_Design_Day_1.pdf)
-- **Practice Sheet:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/f7bcd51cfc97de3371a0aad79ed8f3322ae9d08e/%232%20Digital%20Design%20Week/Digital_Design_Day_1.pdf)
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%232%20Digital%20Design%20Week/Digital_Design_Day_1.pdf)
+- **Practice Sheet:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%232%20Digital%20Design%20Week/Practice_Sheet_Day_1.pdf)
 - **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20241216_160728-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
 ---
@@ -53,8 +53,8 @@ The repository contains comprehensive information and a structured roadmap from 
   - Sequential circuits
   - Flip-flops
   - State machines
-- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/f7bcd51cfc97de3371a0aad79ed8f3322ae9d08e/%232%20Digital%20Design%20Week/Digital_Design_Day_2.pdf)
-- **Practice Sheet:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/f7bcd51cfc97de3371a0aad79ed8f3322ae9d08e/%232%20Digital%20Design%20Week/Practice_Sheet_Day_2.pdf)
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%232%20Digital%20Design%20Week/Digital_Design_Day_2.pdf)
+- **Practice Sheet:** [Download here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%232%20Digital%20Design%20Week/Practice_Sheet_Day_2.pdf)
 - **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/General-20241217_150622-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
 ---
@@ -64,7 +64,7 @@ The repository contains comprehensive information and a structured roadmap from 
   - Basic syntax of Verilog
   - Common errors in Verilog programming
   - Platforms for beginners: EDA Playground and HDL Bits
-- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/f7bcd51cfc97de3371a0aad79ed8f3322ae9d08e/%232%20Digital%20Design%20Week/VerilogIntro_Day_3.pdf)
+- **Session Material:** [Access here](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%232%20Digital%20Design%20Week/VerilogIntro_Day_3.pdf)
 - **Recording:** 🔗[Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20241219_150411-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
 ---
@@ -73,7 +73,7 @@ The repository contains comprehensive information and a structured roadmap from 
 - **HDL Bits Practice:** 🔗[Start here](https://hdlbits.01xz.net/wiki/Problem_sets)
 - **EDA Playground:** 🔗[Practice here](https://edaplayground.com/home)
 - **IndraNeel Sengupta's Verilog Lectures:** 🔗[Watch the playlist](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBELELTSPgzYkQg3HgclQh-5)
-- **Reference Book:** [Digital Logic and Computer Design by M. Morris Mano (2nd Edition)](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/f7bcd51cfc97de3371a0aad79ed8f3322ae9d08e/%232%20Digital%20Design%20Week/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20(2nd%20Edition).pdf)
+- **Reference Book:** [Digital Logic and Computer Design by M. Morris Mano (2nd Edition)](https://github.com/sparkonics/Month-of-Tech-Winter-Ed-24/blob/c6365889776f52ad97e58968a3faf71b996806ef/%232%20Digital%20Design%20Week/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20(2nd%20Edition).pdf)
 
 ---
 

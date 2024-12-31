@@ -130,7 +130,7 @@ The repository contains comprehensive information and a structured roadmap from 
 ### Suggested Learning Path
 1.  Start by exploring "What is IoT?" using the provided session materials. Build on your knowledge from previous sessions on TinkerCAD and sensors.
 2.  Delve into the IoT protocols and standards introduced in Day 2 to understand how communication happens in IoT systems.
-3.  Use tools like ThingSpeak, Wokwi, and Node-RED to experiment with practical IoT implementations. Familiarize yourself with communication protocols like UART.
+3.  Use tools like ThingSpeak, Wokwi, and Node-RED to experiment with practical IoT implementations. Familiarize yourself with communication protocols like UART etc.
 4. - Follow the Node-RED tutorial playlist for advanced workflows.
    - Practice with ESP32 using the Random Nerd Tutorials.
    - Explore Raspberry Pi projects for a broader IoT perspective.

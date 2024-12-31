@@ -7,7 +7,7 @@ The repository contains comprehensive information and a structured roadmap from 
 - **Session Highlights:**
   - Why PCB design is important
   - Basics of PCB design
-- **Session Material:** [PCB_Design_Session_1](#1 PCB Design Week/PCB_Design_Session_1.pdf)
+- **Session Material:** [PCB_Design_Session_1](#1_PCB_Design_Week/PCB_Design_Session_1.pdf)
 - **Recording:** [Watch the session here](https://cciitpatna.sharepoint.com/sites/Sparkonics-24/Shared%20Documents/General/Recordings/Session%20on%20PCB%20Designing-20241209_152010-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 
 ---
